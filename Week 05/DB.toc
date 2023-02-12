@@ -1,0 +1,49 @@
+\contentsline {chapter}{\numberline {1}Assignment Report}{1}{}%
+\contentsline {section}{\numberline {1.1}Abstract}{1}{}%
+\contentsline {section}{\numberline {1.2}Technlogy Stack}{1}{}%
+\contentsline {section}{\numberline {1.3}Database Schema Used}{1}{}%
+\contentsline {section}{\numberline {1.4}Learning Objectives}{1}{}%
+\contentsline {section}{\numberline {1.5}Lab Tasks}{2}{}%
+\contentsline {subsection}{\numberline {1.5.1}Problem 01}{2}{}%
+\contentsline {subsubsection}{Problem Statement}{2}{}%
+\contentsline {subsubsection}{Query}{2}{}%
+\contentsline {subsubsection}{Problem Statement}{2}{}%
+\contentsline {subsubsection}{Query}{2}{}%
+\contentsline {subsubsection}{Problem Statement}{3}{}%
+\contentsline {subsubsection}{Query}{3}{}%
+\contentsline {subsection}{\numberline {1.5.2}Problem 02}{3}{}%
+\contentsline {subsubsection}{Problem Statement}{3}{}%
+\contentsline {subsubsection}{Query}{3}{}%
+\contentsline {subsubsection}{Problem Statement}{4}{}%
+\contentsline {subsubsection}{Query}{4}{}%
+\contentsline {subsection}{\numberline {1.5.3}Problem 03}{4}{}%
+\contentsline {subsubsection}{Problem Statement}{4}{}%
+\contentsline {subsubsection}{Query}{4}{}%
+\contentsline {section}{\numberline {1.6}Home Tasks}{5}{}%
+\contentsline {subsection}{\numberline {1.6.1}Problem 01}{5}{}%
+\contentsline {subsubsection}{Problem Statement}{5}{}%
+\contentsline {subsubsection}{Query}{5}{}%
+\contentsline {subsection}{\numberline {1.6.2}Problem 02}{5}{}%
+\contentsline {subsubsection}{Problem Statement}{5}{}%
+\contentsline {subsubsection}{Query}{5}{}%
+\contentsline {subsection}{\numberline {1.6.3}Problem 03}{6}{}%
+\contentsline {subsubsection}{Problem Statement}{6}{}%
+\contentsline {subsubsection}{Query}{6}{}%
+\contentsline {subsection}{\numberline {1.6.4}Problem 04}{6}{}%
+\contentsline {subsubsection}{Problem Statement}{6}{}%
+\contentsline {subsubsection}{Query}{6}{}%
+\contentsline {subsection}{\numberline {1.6.5}Problem 05}{7}{}%
+\contentsline {subsubsection}{Problem Statement}{7}{}%
+\contentsline {subsubsection}{Query}{7}{}%
+\contentsline {subsection}{\numberline {1.6.6}Problem 06}{7}{}%
+\contentsline {subsubsection}{Problem Statement}{7}{}%
+\contentsline {subsubsection}{Query}{7}{}%
+\contentsline {subsection}{\numberline {1.6.7}Problem 07}{8}{}%
+\contentsline {subsubsection}{Problem Statement}{8}{}%
+\contentsline {subsubsection}{Query}{8}{}%
+\contentsline {subsection}{\numberline {1.6.8}Problem 08}{8}{}%
+\contentsline {subsubsection}{Problem Statement}{8}{}%
+\contentsline {subsubsection}{Query}{8}{}%
+\contentsline {subsection}{\numberline {1.6.9}Problem 09}{9}{}%
+\contentsline {subsubsection}{Problem Statement}{9}{}%
+\contentsline {subsubsection}{Query}{9}{}%
